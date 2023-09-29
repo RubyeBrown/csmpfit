@@ -1,10 +1,10 @@
-*Ignore#file for Visual Studio Projects
+ Ignore#file for Visual Studio Projects
 
 #use glob syntax
 syntax: glob
 
 #Ignore VS 2008 files
-*.obj
+ .obj
 *.exe
 *.pdb
 *.user
@@ -44,4 +44,4 @@ glob:*.orig
 [Bb]uild
 .vs
 UpgradeLog.htm
- 
+  
